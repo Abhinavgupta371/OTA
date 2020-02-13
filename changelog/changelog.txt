@@ -1,1 +1,4 @@
-Intial Build !
+Switched to Hypercam.
+Fixed Wfd issues.
+Increased Primary mic input to 2.
+Rest Find Yourself !
