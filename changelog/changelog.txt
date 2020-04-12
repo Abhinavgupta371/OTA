@@ -1,4 +1,5 @@
-Switched to Hypercam.
-Fixed Wfd issues.
-Increased Primary mic input to 2.
+April security patch.
+Updated blobs from LA.UM.8.6.2.r1-06600-89xx.0.
+Included Gcam5.
+General fixes and stability improvements.
 Rest Find Yourself !
