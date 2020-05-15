@@ -1,5 +1,4 @@
-April security patch.
-Updated blobs from LA.UM.8.6.2.r1-06600-89xx.0.
-Included Gcam5.
+May security patch.
+Updated blobs from LA.UM.8.6.2.r1-07100-89xx.0.
 General fixes and stability improvements.
 Rest Find Yourself !
